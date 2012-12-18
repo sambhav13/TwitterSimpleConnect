@@ -1,0 +1,38 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	background-color: #333;
+	margin: 0;
+	font-family: Arial;
+	font-size:12px;
+}
+
+.tweet{
+	border:1em solid #333;
+	background-color:#FFF;
+	padding:1em;
+}
+.tweet_avatar{
+
+}
+
+.tweet_avatar img{
+	width:3em;
+	height:3em;
+}
+
+.tweet_text{
+	margin-top:1em;
+	
+}
+
+.tweet_user{
+	margin-top:1em;
+}
+
+
+
+				
+				
